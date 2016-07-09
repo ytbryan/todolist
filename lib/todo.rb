@@ -4,7 +4,7 @@ require "thor"
 module Todo
   class Base < Thor
     check_unknown_options!
-    package_name 'do'
+    package_name 'todo'
     default_task :help
 
     desc :destroy, 'destroy a task'
