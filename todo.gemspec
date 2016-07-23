@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Todo::VERSION
   spec.authors       = ["Bryan Lim"]
   spec.email         = ["ytbryan@gmail.com"]
-  spec.summary       = %q{}
-  spec.description   = %q{}
+  spec.summary       = %q{a todo list ✅}
+  spec.description   = %q{a todo list}
   spec.homepage      = ""
   spec.license       = "MIT"
 
